@@ -1,0 +1,36 @@
+git init --initialization
+git config user.name"username"
+git config user.email"useremail"
+git add "filename"
+git add .
+git commit -m "message"
+git remote add origin "url"
+git push origin master/branch
+git status
+git log
+git log --oneline
+history
+git add *.extention
+git clone "remote repo url"
+git rm -- cached "filename"
+git branch "branch name"
+git checkout "branch name"
+git branch
+git checkout -b "branch name"
+git log -number
+git log filename
+git switch "branch name"
+git branch --list
+git rebase branch name
+git cherry-pick commit id
+git branch -d "branch name"
+git branch -D "branch name"
+git reflog
+git push origin -d "branchname"
+git config --edit
+git remote rm origin
+git checkout fname
+git chech .
+git remote -v
+git merge "branch name"
+                                                                                                                                                    3,23          Top

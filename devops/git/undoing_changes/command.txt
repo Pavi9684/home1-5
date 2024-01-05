@@ -1,0 +1,6 @@
+git config --edit
+git rm --cached filename
+git remote rm origin
+git checkout filename
+git checkout .
+git commit --ammend"filename"
